@@ -82,7 +82,7 @@ p {
     transition:  .3s ease-in-out;
 }
 
-@media screen and (max-widht:460px) {
+@media screen and (max-widht:476px) {
     .card {
         width: 95%;
     }
